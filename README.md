@@ -10,5 +10,6 @@ When the user clicks on a color, it opens a new screen with the color and 10 sha
 when the user clicks on a shade, it opens a new screen with the shade in full screen.
 the transition between the screens is done with a `Hero` widget.
 
-![Alt Text](https://media.giphy.com/media/r1cQl5sbyuG2Cf2pHx/giphy.gif)
-
+<p align="center">
+  <img src="https://media.giphy.com/media/r1cQl5sbyuG2Cf2pHx/giphy.gif" width="250">
+</p>
