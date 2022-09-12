@@ -1,16 +1,14 @@
 # color_scroller
 
-A new Flutter project.
+Tiny Flutter Project to train my skills.
 
-## Getting Started
+## How it works
 
-This project is a starting point for a Flutter application.
+The app is a simple color scroller. It shows a list of colors.
+The colors are stored in a `List` and displayed in a `ListView`.
+When the user clicks on a color, it opens a new screen with the color and 10 shades of the color.
+when the user clicks on a shade, it opens a new screen with the shade in full screen.
+the transition between the screens is done with a `Hero` widget.
 
-A few resources to get you started if this is your first Flutter project:
+![Alt Text](https://media.giphy.com/media/r1cQl5sbyuG2Cf2pHx/giphy.gif)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
